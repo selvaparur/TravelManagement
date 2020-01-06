@@ -14,6 +14,7 @@ namespace TestCoreApp
     {
         public static void Main(string[] args)
         {
+            // Added for test command
             CreateWebHostBuilder(args).Build().Run();
         }
 
